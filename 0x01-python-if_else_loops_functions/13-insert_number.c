@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdlib.h>
 
 /**
  * insert_node - to insert node
